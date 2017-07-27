@@ -1,0 +1,7 @@
+#ifndef NUMCPP_CONFIG_H_
+#define NUMCPP_CONFIG_H_
+
+#cmakedefine USE_OPENCV
+#cmakedefine USE_CUDA
+
+#endif // NUMCPP_CONFIG_H_
